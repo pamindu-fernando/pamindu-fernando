@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- MATRIX WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:0EF742&height=220&text=%E3%80%8C%20teKha%20%E3%80%8D&animation=fadeIn&fontColor=0EF742&fontSize=70&fontAlignY=35&desc=%2F%2F%20root%40teKha%3A~%23%20sudo%20rm%20-rf%20%2Fyour_firewall&descSize=14&descAlignY=55&descColor=00cc00" width="100%"/>
+<!-- PROFILE BANNER -->
+<img src="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/735b325ceb848829676ed826dadb6bf93665c9a7/githubb.jpg" width="100%" alt="Profile Banner"/>
 
 <!-- TYPING SVG -->
 <p align="center">
@@ -112,8 +112,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pamindu-fernando&color=0EF742&style=for-the-badge&label=SYSTEM+SCANS" alt="Profile Views" />
 </p>
-
-<!-- MATRIX WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:0EF742&height=120&section=footer" width="100%"/>
 
 </div>
