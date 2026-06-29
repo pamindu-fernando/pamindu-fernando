@@ -12,6 +12,14 @@
   </a>
 </p>
 
+<!-- SHIELDS -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active-000000?style=for-the-badge&logo=gnubash&logoColor=0EF742&labelColor=000000&color=0EF742" alt="Status" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/System-Secured-000000?style=for-the-badge&logo=linux&logoColor=0EF742&labelColor=000000&color=0EF742" alt="System" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Network-Encrypted-000000?style=for-the-badge&logo=torbrowser&logoColor=0EF742&labelColor=000000&color=0EF742" alt="Network" /></a>
+  <a href="https://linkedin.com/in/pamindu-fernando"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0EF742&labelColor=000000&color=0EF742" alt="LinkedIn" /></a>
+</p>
+
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF742&width=435&lines=I+don't+need+a+key%2C+I'm+locksmith...;%24ls+-la+%2Fhidden_secrets;Everything+is+a+file;%24+cat+%2Fetc%2Fshadow+%7C+grep+root;Access+Granted...;Connection+Established..." alt="Typing SVG" /></a>
@@ -75,25 +83,7 @@
 <br>
 
 
-<!-- GITHUB STATS & LANGUAGES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pamindu-fernando&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=0EF742&icon_color=0EF742" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamindu-fernando&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=0EF742&icon_color=0EF742" alt="Top Languages" />
-</p>
 
-<!-- GITHUB TROPHIES -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pamindu-fernando&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<!-- JOKE -->
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&titleColor=0EF742&textColor=ffffff&iconColor=0EF742&bgColor=00000000" alt="Jokes Card" />
-</p>
-
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pamindu-fernando&color=0EF742&style=for-the-badge&label=SYSTEM+SCANS" alt="Profile Views" />
 </p>
