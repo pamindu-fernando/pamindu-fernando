@@ -68,22 +68,8 @@
 </p>
 ---
 
-<!-- GITHUB SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake.svg" alt="Snake animation">
-</picture>
 
----
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pamindu-fernando&theme=green&hide_border=true&bg_color=0D1117&color=0EF742&line=0EF742&point=ff0000&area=true&area_color=003300" width="100%" alt="Activity Graph"/>
-
----
-
-<!-- ANIME FOOTER GIF -->
-<img src="https://i.pinimg.com/originals/06/60/ef/0660ef2e6e25ddba2ea3f2156fb9e1b0.gif" width="600" alt="Cyber Anime"/>
 
 
 <br>
