@@ -3,6 +3,13 @@
 <!-- PROFILE BANNER -->
 <img src="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/735b325ceb848829676ed826dadb6bf93665c9a7/githubb.jpg" width="100%" alt="Profile Banner"/>
 
+<!-- SKILL ICONS -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,mysql,postgres,docker,linux,ubuntu,bash,powershell&theme=dark" alt="Skill Icons" />
+  </a>
+</p>
+
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF742&width=435&lines=I+don't+need+a+key%2C+I'm+locksmith...;%24ls+-la+%2Fhidden_secrets;Everything+is+a+file;%24+cat+%2Fetc%2Fshadow+%7C+grep+root;Access+Granted...;Connection+Established..." alt="Typing SVG" /></a>
@@ -54,32 +61,10 @@
 <br>
 
 <!-- SPACE SHOOTER GAME -->
-### ▸ 𝙿𝚕𝚊𝚢 𝚂𝚙𝚊𝚌𝚎 𝚂𝚑𝚘𝚘𝚝𝚎𝚛 ◂
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
-
 ---
-
-<!-- SYSTEM SCAN -->
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   [ SYSTEM SCAN INITIATED ]                                      ║
-║                                                                  ║
-║   > Alias          : teKha                                       ║
-║   > Status         : Online                                      ║
-║   > Access Level   : Root                                        ║
-║   > Threat Level   : Maximum                                     ║
-║                                                                  ║
-║   > OS             : Ubuntu 24.04                                ║
-║   > Shell          : PowerShell | Bash                           ║
-║   > Cloud          : Azure VM                                    ║
-║   > Encryption     : BCrypt                                      ║
-║   > Auth           : SSH Keys                                    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 <!-- GITHUB SNAKE -->
 <picture>
@@ -98,14 +83,6 @@
 <!-- ANIME FOOTER GIF -->
 <img src="https://i.pinimg.com/originals/06/60/ef/0660ef2e6e25ddba2ea3f2156fb9e1b0.gif" width="600" alt="Cyber Anime"/>
 
-<br>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you are able to hear."   │
-│                                          - Kali Linux       │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <br>
 
