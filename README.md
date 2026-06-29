@@ -4,6 +4,8 @@
 <img src="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/735b325ceb848829676ed826dadb6bf93665c9a7/githubb.jpg" width="100%" alt="Profile Banner"/>
 
 <!-- SKILL ICONS -->
+<br>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,mysql,postgres,docker,linux,ubuntu,bash,powershell&theme=dark" alt="Skill Icons" />
