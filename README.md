@@ -22,7 +22,7 @@
 
 <br>
 
-```text
+<pre style="color: #0EF742; font-family: monospace; background: transparent; border: none; font-size: 12px; line-height: 1.2;">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠒⢛⣀⢰⣶⣶⣆⣄⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡿⢋⣥⣼⣿⣿⣿⢿⡟⢛⣛⣛⢶⣻⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -58,7 +58,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⢀⣿⣿⣿⣿⢇⣿⣿⣿⣿⣿⣿⣿⣗⠸⣿⣿⣷⠠⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣎⢻⣿⣿⡟⣼⣿⣿⣿⣿⣿⣿⣿⡯⠀⣿⣿⣿⠀⣏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```
+</pre>
 
 <br>
 
@@ -74,6 +74,26 @@
 
 <br>
 
+
+<!-- GITHUB STATS & LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pamindu-fernando&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=0EF742&icon_color=0EF742" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamindu-fernando&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=0EF742&icon_color=0EF742" alt="Top Languages" />
+</p>
+
+<!-- GITHUB TROPHIES -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pamindu-fernando&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- JOKE -->
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&titleColor=0EF742&textColor=ffffff&iconColor=0EF742&bgColor=00000000" alt="Jokes Card" />
+</p>
+
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pamindu-fernando&color=0EF742&style=for-the-badge&label=SYSTEM+SCANS" alt="Profile Views" />
 </p>
