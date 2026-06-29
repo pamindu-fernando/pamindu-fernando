@@ -11,6 +11,11 @@
     <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,mysql,postgres,docker,linux,ubuntu,bash,powershell,python,c,cpp,cs,git,github,aws,gcp,kubernetes,mongodb,redis,nginx,vim,vscode,postman&theme=dark&perline=14" alt="Skill Icons" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,aws,gcp,kubernetes,mongodb,redis,nginx,vim,vscode,postmanc,cpp,cs,git,github,aws,gcp,kubernetes,mongodb,redis,nginx,vim,vscode,postman&theme=dark&perline=14" alt="Skill Icons" />
+  </a>
+</p>
 
 <!-- SHIELDS -->
 <p align="center">
@@ -19,7 +24,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Network-Encrypted-000000?style=for-the-badge&logo=torbrowser&logoColor=0EF742&labelColor=000000&color=0EF742" alt="Network" /></a>
   <a href="https://linkedin.com/in/pamindu-fernando"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0EF742&labelColor=000000&color=0EF742" alt="LinkedIn" /></a>
 </p>
----
+
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF742&width=435&lines=I+don't+need+a+key%2C+I'm+locksmith...;%24ls+-la+%2Fhidden_secrets;Everything+is+a+file;%24+cat+%2Fetc%2Fshadow+%7C+grep+root;Access+Granted...;Connection+Established..." alt="Typing SVG" /></a>
