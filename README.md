@@ -53,26 +53,6 @@
 
 <br>
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗               ║
-║   ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗              ║
-║   ███████║███████║██║     █████╔╝ █████╗  ██████╔╝              ║
-║   ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗              ║
-║   ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║              ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝              ║
-║                                                                  ║
-║   user@teKha:~$ whoami                                           ║
-║   > Full-Stack Developer | Sysadmin | Cyber Enthusiast           ║
-║   user@teKha:~$ cat /etc/mission                                 ║
-║   > Build. Break. Learn. Repeat.                                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br>
-
 <!-- SPACE SHOOTER GAME -->
 ### ▸ 𝙿𝚕𝚊𝚢 𝚂𝚙𝚊𝚌𝚎 𝚂𝚑𝚘𝚘𝚝𝚎𝚛 ◂
 <p align="center">
@@ -81,23 +61,25 @@
 
 ---
 
-<!-- SYSTEM SCAN BADGES -->
-### ⌬ 𝚂𝚢𝚜𝚝𝚎𝚖 𝚂𝚌𝚊𝚗 ⌬
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Alias-teKha-0EF742?style=for-the-badge&logo=ghost&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Status-Online-0EF742?style=for-the-badge&logo=statuspal&logoColor=black&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Access_Level-Root-ff0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Threat_Level-Maximum-ff0000?style=for-the-badge&logo=hackaday&logoColor=white&labelColor=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Ubuntu_24.04-0EF742?style=flat-square&logo=ubuntu&logoColor=0EF742&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Shell-PowerShell_%7C_Bash-0EF742?style=flat-square&logo=gnubash&logoColor=0EF742&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Cloud-Azure_VM-0EF742?style=flat-square&logo=microsoftazure&logoColor=0EF742&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Encryption-BCrypt-0EF742?style=flat-square&logo=letsencrypt&logoColor=0EF742&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Auth-SSH_Keys-0EF742?style=flat-square&logo=openssh&logoColor=0EF742&labelColor=0D1117" />
-</p>
+<!-- SYSTEM SCAN -->
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   [ SYSTEM SCAN INITIATED ]                                      ║
+║                                                                  ║
+║   > Alias          : teKha                                       ║
+║   > Status         : Online                                      ║
+║   > Access Level   : Root                                        ║
+║   > Threat Level   : Maximum                                     ║
+║                                                                  ║
+║   > OS             : Ubuntu 24.04                                ║
+║   > Shell          : PowerShell | Bash                           ║
+║   > Cloud          : Azure VM                                    ║
+║   > Encryption     : BCrypt                                      ║
+║   > Auth           : SSH Keys                                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <!-- GITHUB SNAKE -->
 <picture>
