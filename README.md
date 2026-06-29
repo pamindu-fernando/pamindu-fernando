@@ -11,6 +11,9 @@
 <!-- ANIME GIF HEADER -->
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97a1a7dec6907d96c32.gif" width="600" alt="Hacker Anime"/>
 
+<br>
+
+```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠒⢛⣀⢰⣶⣶⣆⣄⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⡿⢋⣥⣼⣿⣿⣿⢿⡟⢛⣛⣛⢶⣻⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -46,6 +49,27 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⢀⣿⣿⣿⣿⢇⣿⣿⣿⣿⣿⣿⣿⣗⠸⣿⣿⣷⠠⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣎⢻⣿⣿⡟⣼⣿⣿⣿⣿⣿⣿⣿⡯⠀⣿⣿⣿⠀⣏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+<br>
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗               ║
+║   ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗              ║
+║   ███████║███████║██║     █████╔╝ █████╗  ██████╔╝              ║
+║   ██╔══██║██╔══██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗              ║
+║   ██║  ██║██║  ██║╚██████╗██║  ██╗███████╗██║  ██║              ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝              ║
+║                                                                  ║
+║   user@teKha:~$ whoami                                           ║
+║   > Full-Stack Developer | Sysadmin | Cyber Enthusiast           ║
+║   user@teKha:~$ cat /etc/mission                                 ║
+║   > Build. Break. Learn. Repeat.                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
@@ -72,9 +96,14 @@
   <img src="https://img.shields.io/badge/Shell-PowerShell_%7C_Bash-0EF742?style=flat-square&logo=gnubash&logoColor=0EF742&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Cloud-Azure_VM-0EF742?style=flat-square&logo=microsoftazure&logoColor=0EF742&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Encryption-BCrypt-0EF742?style=flat-square&logo=letsencrypt&logoColor=0EF742&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Auth-SSH_Keys-0EF742?style=flat-square&logo=openssh&logoColor=0EF742&labelColor=0D1117" 
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```src="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake.svg" alt="Snake animation">
+  <img src="https://img.shields.io/badge/Auth-SSH_Keys-0EF742?style=flat-square&logo=openssh&logoColor=0EF742&labelColor=0D1117" />
+</p>
+
+<!-- GITHUB SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/pamindu-fernando/pamindu-fernando/output/github-snake.svg" alt="Snake animation">
 </picture>
 
 ---
@@ -89,11 +118,12 @@
 
 <br>
 
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │  "The quieter you become, the more you are able to hear."   │
 │                                          - Kali Linux       │
 └──────────────────────────────────────────────────────────────┘
-
+```
 
 <br>
 
