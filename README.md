@@ -8,7 +8,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,mysql,postgres,docker,linux,ubuntu,bash,powershell&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,html,css,mysql,postgres,docker,linux,ubuntu,bash,powershell,python,c,cpp,cs,git,github,aws,gcp,kubernetes,mongodb,redis,nginx,vim,vscode,postman&theme=dark&perline=15" alt="Skill Icons" />
   </a>
 </p>
 
